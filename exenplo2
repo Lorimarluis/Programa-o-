@@ -1,0 +1,6 @@
+const serie = "game Of Trones"
+const temporadas = 8
+console.log(typeof series)//string
+console.log (typeof temporadas)//number
+
+
