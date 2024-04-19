@@ -1,9 +1,3 @@
-let soma = 0;
-for (let i = 1; i <= 10 ; i++){
-if (i >= 1 && i <= 10){
-    soma += i
-}
-
-
-}
-console.log (soma)   
+for (let i = 2; i <= 10; i += 2){
+    console.log(i)
+}   
